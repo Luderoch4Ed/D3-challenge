@@ -84,7 +84,7 @@ yText .append("text")
     .attr("data-name", "healthcare")
     .attr("data-axis", "y")
     .attr("class", "aText inactive y")
-    .text("Lacks Healthcare (%)");
+    .text("No Healthcare (%)");
     
 // Plotting and visualizing the data
 // Define dynamic circle radius
